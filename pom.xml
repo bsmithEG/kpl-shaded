@@ -6,7 +6,7 @@
 
     <groupId>com.evergage.thirdparty.kpl</groupId>
     <artifactId>kpl-shaded</artifactId>
-    <version>1.11.171-evg1</version>  <!-- SYNC WITH property kpl.version BELOW -->
+    <version>0.12.9-evg1</version>  <!-- SYNC WITH property kpl.version BELOW -->
 
     <description>Lightly-shaded AWS KPL library.</description>
 
